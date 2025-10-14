@@ -48,14 +48,23 @@ Write the detailed procedure here
 */
 
 **RTL Schematic**
-![RTL diagram 4 1](https://github.com/user-attachments/assets/c82f9efa-4f33-498a-9428-f223cc563e4c)
-![RTL diagram 4 2](https://github.com/user-attachments/assets/bb825874-0674-44d6-81eb-37fc1e521eb1)
+
 
 **Output Timing Waveform**
-![state diagram 4 1](https://github.com/user-attachments/assets/9da1b73a-e254-4b52-bc13-31dc8b2efcd5)
-![state diagram 4 2](https://github.com/user-attachments/assets/9d44493f-468a-4ed7-8ceb-086895c6b79e)
 
 **Result:**
+Logic diagram for full addder:
+<img width="869" height="434" alt="Screenshot 2025-10-14 222403" src="https://github.com/user-attachments/assets/e924111d-23b7-49ea-a633-f0c107a4575b" />
+
+state diagram for full adder:
+<img width="1035" height="142" alt="Screenshot 2025-10-14 222743" src="https://github.com/user-attachments/assets/3d2bd0c1-f7f4-4cc9-8b4f-929ef7eb9517" />
+
+logic diagram for full subtractor:
+<img width="925" height="403" alt="Screenshot 2025-10-14 223158" src="https://github.com/user-attachments/assets/a63e22bd-b273-4962-9430-b79d17e89ee4" />
+
+state diagram for full subtractor:
+<img width="1036" height="127" alt="Screenshot 2025-10-14 223324" src="https://github.com/user-attachments/assets/84a290bd-377b-4dcf-b81c-20e151973b68" />
+
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
 
